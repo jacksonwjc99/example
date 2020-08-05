@@ -1,0 +1,4 @@
+#Wed Aug 05 09:18:11 SGT 2020
+base.0=D\:\\TARUC\\Degree\\Y3\\Sem 1\\BAIT2123 Internet of Things\\Assignment\\flutter-plugins\\packages\\pedometer\\example\\build\\app\\intermediates\\transforms\\r8\\release\\0\\classes.dex
+path.0=classes.dex
+renamed.0=classes.dex
